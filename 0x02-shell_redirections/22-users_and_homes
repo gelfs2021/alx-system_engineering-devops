@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d':' -f 1,6 /etc/passwd | sort 
+cut -d""[D:"[D[D[D ":" -f 1,6 /etc/passwd |[D[D[C[D[ [C sort
